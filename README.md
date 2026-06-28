@@ -64,7 +64,7 @@ Node.js is **not** required to run BurnMap. It is only needed if you want to reb
 Clone the repository and enter the project directory:
 
 ```bash
-git clone REPO_URL
+git clone https://github.com/solostackdevbuilder/BurnMap.git
 cd BurnMap
 ```
 
