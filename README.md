@@ -8,8 +8,9 @@ BurnMap is a local-first analytics tool for coding-agent usage. It ingests usage
 
 If you received BurnMap as a **tester zip bundle**, start with **`START_HERE_TESTERS.md`** in the project root. That guide is written for zip-based testing and does not require Git or a frontend build step.
 
-<!-- Dashboard screenshot (generated from synthetic demo data) coming shortly. -->
-_The dashboard gives a populated overview: sessions, token burn, model mix, and estimated cost across all sources._
+![BurnMap dashboard](docs/screenshot.png)
+
+_The dashboard gives a populated overview: sessions, token burn, model mix, and estimated cost across all sources. (Shown with synthetic demo data.)_
 
 ## Why BurnMap?
 
