@@ -1,0 +1,44 @@
+# Environment
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Local data / reports
+*.db
+*.sqlite
+*.sqlite3
+.coverage
+htmlcov/
+
+# Logs / runtime files
+*.log
+*.pid
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Frontend local dependencies
+frontend/node_modules/
+
+# Local tooling artifacts
+.edge-profile/
+
+# Claude Code local settings (machine-specific; may reference other private projects)
+settings.local.json
+.claude/
+
+# Tester distribution bundle (byte-identical duplicate of the source;
+# attach the zip to a GitHub Release instead of committing it)
+release/
